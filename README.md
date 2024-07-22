@@ -1,4 +1,4 @@
-# TraversyPress UI
+# Admin Dashboard UI
 
 <img src="img/screen.png" alt="" />
 
